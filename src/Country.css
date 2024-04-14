@@ -1,0 +1,28 @@
+.country-container {
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #f0f0f0;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.loading, .error {
+  font-size: 18px;
+  text-align: center;
+  color: #333;
+}
+
+.weather-info {
+  text-align: center;
+}
+
+.location {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.temperature, .weather, .humidity, .wind-speed {
+  font-size: 18px;
+  margin-bottom: 5px;
+}
